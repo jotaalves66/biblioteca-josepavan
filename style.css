@@ -1,0 +1,10 @@
+nav{
+    display: flex;
+}
+
+.nav_botao,
+.nav_logo {
+    width: 35px;
+    height: 35pix;
+    background-color: black;
+}
